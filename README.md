@@ -97,9 +97,9 @@ Close the HTML structure.
 ```
 
 # OUTPUT:7(i)
-![output1](project1_default.png)
-![output2](project1.dark_theme.png)
-![output3](project1.dark_theme_mobile_view.png)
+![project1_default](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/58a41753-73cd-49cf-b5fe-50d5b08bba4c)
+![project1 dark_theme_mobile_view](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/b796863d-99a2-4c4f-9e01-db8333e154d6)
+![project1 dark_theme](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/cee6a595-af1d-4cc5-a285-c1aacff64708)
 
 <h1>Ex-07(ii)-CSS
 
@@ -161,8 +161,9 @@ End the HTML document by closing all open tags.
   ```
 
 # OUTPUT:7(ii):
-![output1](project2.full_size.png)
-![output2](project2.mobile_view.png)
+![project2 full_size](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/ac6aab6a-20e6-4b20-bdb2-04db4f149ca4)
+![project2 mobile_view](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/83a1eb58-b894-407a-8764-9403c4a21030)
+
 
 # Ex-07(iii)-CSS Orientation-based Media Query
 
@@ -227,8 +228,9 @@ Open your HTML file in a web browser and change the orientation of your device t
   </html>
   ```
   # output
-  ![output1](project3..png)
-  ![output2](project3.mobile_view.png)
+![project3](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/4a486643-15ab-4629-b28f-c2cc1e39b1b6)
+![project3 mobile_view](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/abfa7456-0375-4084-8dc5-8a5e8795adfd)
+
 
 # Ex-07(iv)-CSS Responsive Typography
 
@@ -303,9 +305,10 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </html>
   ```
 # OUTPUT:7(iv)
-![output1](project4_destop_view.png)
-![output2](project4_tab_view.png)
-![output3](project4_mobile_view.png)
+![project4_destop_view](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/8a595712-cab0-48db-b69e-2dd7fe674580)
+![project4_tab_view](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/090bf090-c4da-441e-bd28-7a5bc06fc81b)
+![project4_mobile_view](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/5b4ed02b-e07e-4d14-ad86-b7d19de55eb8)
+
 
 # Ex-07(v)-Print-friendly CSS
 
@@ -375,7 +378,7 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </html>
   ```
 # OUTPUT:7(v)
-![output](project5.png)
+![image](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/30da085b-2b6c-40b1-a607-a14606eddb4b)
 
 # Ex-07(vi)-Dark Mode Implementation
 # AIM
@@ -446,7 +449,8 @@ Remember to test your website in both light and dark modes to ensure the colors 
   </html>
   ```
 # OUTPUT:7(vi)
-![output1](project6_light_mode.png)
-![output2](project6._dak_mode.png)
+![image](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/d1935bd8-30f7-4341-8bcc-52e4522f863a)
+![image](https://github.com/GURUMUR/ODD2023-WT-Ex-07-CSS/assets/144895197/4450d550-8bcb-4cb4-a160-c65f16aab393)
+
 # RESULT:
 Therefore the code has been successfully executed.
